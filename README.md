@@ -1,5 +1,5 @@
 # SensorsConnect Wiki 
-# $${Under \space Construction}$$
+# Under Construction
 
 This is a wiki template. I believe this is the minimum documentation each project should have.
 
